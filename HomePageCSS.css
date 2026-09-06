@@ -1,10 +1,23 @@
 .contactus-img{
     float: left;
     margin: 5px;
-    width: 500px;
+    width: 400px;
     height: 300px;
+}
+
+.third-img{
+    margin-top: 2px;
 }
 
 .googleforms{
  margin: 100px;   
+}
+
+.operating-hours-table{
+    float: right;
+    margin-top: -290px;
+    margin-right:100px;
+    margin-left:100px;
+    margin-bottom:100px;
+    border:3px solid black;
 }
